@@ -4,3 +4,10 @@ Languages
 2. Spring
 3. Hibernate
 4. Struts
+
+
+UI Technologies
+----------------
+1. Java Script
+2. HTML / CSS
+3. jQuery
