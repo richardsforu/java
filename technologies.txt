@@ -24,3 +24,8 @@ DB Servers
 ------------
 1. Oracle
 2. MySQL
+
+CLoud tech
+------------
+1. AWS
+
