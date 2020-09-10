@@ -18,3 +18,9 @@ Servers
 1. Tomcat
 2. Jboss
 3. glash fish
+
+
+DB Servers
+------------
+1. Oracle
+2. MySQL
