@@ -29,3 +29,7 @@ CLoud tech
 ------------
 1. AWS
 
+Component based UI
+--------------------
+1. React JS
+2. Angular
